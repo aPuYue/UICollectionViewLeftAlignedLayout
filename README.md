@@ -47,3 +47,12 @@ for decoration
 
 
 <img width="35%" height="35%"  src="https://github.com/BoxDengJZ/UICollectionViewLeftAlignedLayout/blob/master/Images/dec.png">
+
+
+
+使用方法：![截屏2022-07-01 4 14 56](https://user-images.githubusercontent.com/38312620/176759623-02ab7675-5277-4221-929f-3dceb7bb4413.png)
+3文件需要的导入自己程序
+![截屏2022-07-01 4 13 31](https://user-images.githubusercontent.com/38312620/176759710-29ccf802-b13e-4d6c-8480-9ea0bf6d1fd9.png)
+关联目标collectionview内部的约束关联class
+
+
